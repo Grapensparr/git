@@ -1,4 +1,4 @@
-#Resultat:
+# Resultat:
 
 ![image](https://user-images.githubusercontent.com/113124538/221362529-6a873339-911a-4167-98fc-e0c1e3a7b6f2.png)
 
@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/113124538/221362469-382c6a64-251b-40b9-8e63-664681273eec.png)
 
 
-#Inlämningsuppgift
+# Inlämningsuppgift
 Denna uppgift handlar om att du skall skapa en sida som handlar om en av dina hobbys. 
 
 Syftet med uppgiften är att ni skall lära er att hantera git och arbeta strukturerat med hjälp av git. 
